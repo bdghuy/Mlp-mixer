@@ -2,7 +2,7 @@
 
 Implementation for paper [MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/abs/2105.01601) with [SERF: Towards better training of deep neural networks using log-Softplus ERror activation Function](https://arxiv.org/abs/2108.09598)
 
-<img src="https://render.githubusercontent.com/render/math?math=x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}">
+$\frac{-b \pm \sqrt{b^2-4ac}}{2b}$
 
 #### Mlp-mixer configs
 
