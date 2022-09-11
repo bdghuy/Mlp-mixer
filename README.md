@@ -4,4 +4,6 @@ Implementation for paper [MLP-Mixer: An all-MLP Architecture for Vision](https:/
 
 #### Mlp-mixer configs
 
+<img src="https://github.com/bdghuy/Mlp-mixer/blob/main/configs.PNG">
+
 #### Sample Usage
