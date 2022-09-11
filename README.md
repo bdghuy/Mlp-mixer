@@ -7,3 +7,14 @@ Implementation for paper [MLP-Mixer: An all-MLP Architecture for Vision](https:/
 <img src="https://github.com/bdghuy/Mlp-mixer/blob/main/configs.PNG" width="433" height="120">
 
 #### Sample Usage
+
+```
+mixer_S16 = MLPMixer(input_shape=(im_height,im_width,3),
+                     num_classes = num_classes,
+                     N = 8,
+                     P = 16,
+                     C = 512,
+                     DS = 256,
+                     DC = 2048,
+                     dropout_rate = 0.2)
+```
