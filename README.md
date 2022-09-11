@@ -4,7 +4,7 @@ Implementation for paper [MLP-Mixer: An all-MLP Architecture for Vision](https:/
 
 #### Serf function
 
-$(x)=x*erf(ln(1+e^x))$
+$f(x)=x*erf(ln(1+e^x))$
 
 #### Mlp-mixer configs
 
