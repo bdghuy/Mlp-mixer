@@ -2,7 +2,9 @@
 
 Implementation for paper [MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/abs/2105.01601) with [SERF: Towards better training of deep neural networks using log-Softplus ERror activation Function](https://arxiv.org/abs/2108.09598)
 
-$\frac{-b \pm \sqrt{b^2-4ac}}{2b}$
+#### Serf function
+
+$(x)=x*erf(ln(1+e^x))$
 
 #### Mlp-mixer configs
 
